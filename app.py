@@ -146,7 +146,7 @@ if app_mode == '🏠 Home':
         """, unsafe_allow_html=True)
     
     with col2:
-        st.image('ds.jpg', use_container_width=True)
+        st.image('Disease.png', use_container_width=True)
     
     st.markdown("## 🔍 Key Features")
     features = [
